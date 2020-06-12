@@ -1,0 +1,5 @@
+Rencana Konten Jerry
+
+- Video PHP
+- Video Javascript
+- Vlog
