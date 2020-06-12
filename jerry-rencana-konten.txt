@@ -5,4 +5,6 @@ Rencana Konten Jerry
   + PHP OOP
   + Framework PHP
 - Video Javascript
+  + tipe data js
 - Vlog
+  + set up work room
