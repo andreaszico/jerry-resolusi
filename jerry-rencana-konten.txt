@@ -4,7 +4,9 @@ Rencana Konten Jerry
   + PHP dasar
   + PHP OOP
   + Framework PHP
+    - Laravel
 - Video Javascript
   + tipe data js
-- Vlog
-  + set up work room
+  + Framework js
+    - Angular
+    - React
