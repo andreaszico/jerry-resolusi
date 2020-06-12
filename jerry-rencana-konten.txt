@@ -5,10 +5,8 @@ Rencana Konten Jerry
   + PHP OOP
   + Framework PHP
     - Laravel
-    - CodeIgniter
 - Video Javascript
   + tipe data js
-  + framework js (Vue)
-- Vlog
-  + set up work room
-- Python
+  + Framework js
+    - Angular
+    - React
