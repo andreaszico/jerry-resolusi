@@ -1,0 +1,8 @@
+Rencana Konten Jerry
+
+- Video PHP
+  + PHP dasar
+  + PHP OOP
+  + Framework PHP
+- Video Javascript
+- Vlog
